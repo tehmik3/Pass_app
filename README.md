@@ -1,5 +1,5 @@
 How It Works:
-Password Evaluation (evaluate_password_strength function):
+Password_strength function🔐:
 
 Length: The password must be at least 8 characters long.
 Uppercase Letters: At least one uppercase letter is required.
